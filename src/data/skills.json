@@ -1,0 +1,57 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "category": "frontend"
+  },
+  {
+    "title" : "css",
+    "imageSrc": "skills/css.png",
+    "category": "frontend"
+  },
+  {
+    "title" : "javascript",
+    "imageSrc" : "skills/javascript.png",
+    "category" : "frontend"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "category": "frontend"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/Mysql.png",
+    "category" : "database"
+  },
+  {
+    "title": "java",
+    "imageSrc":"skills/java.png",
+    "category" : "backend"
+  },
+  {
+    "title" : "c",
+    "imageSrc" :"skills/c.png",
+    "category" : "backend"
+  },
+  {
+    "title":"c++",
+    "imageSrc" : "skills/c++.png",
+    "category" : "backend"
+  },
+  {
+    "title" : "Python",
+    "imageSrc" : "skills/python.png",
+    "category" :"backend"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png",
+    "category" : "frontend"
+  },
+  {
+    "title" : "SQLite",
+    "imageSrc" : "skills/SQLite.png",
+    "category" :"database"
+  }
+]

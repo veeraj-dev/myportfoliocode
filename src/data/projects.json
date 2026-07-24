@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Employee Management System",
+    "imageSrc": "projects/EMS.png",
+    "description": "Employee Management System is a distributed application, developed to maintain the details of employee working in any organization. The Employee Management system has been developed to override the problems prevailing in the practicing manual system. It maintains the information about the personal and official details of the employee. The system helps in maintaining the computerized employee details, calculate the salary, easy calculation of various leave in categories and create new users to system accordingly.",
+    "skills": ["Php", "XAMPP", "HTML", "CSS", "MySQL"],
+    "demo": "",
+    "source": "https://drive.google.com/file/d/1bNh-2hpNuQCnTWwb82-DCIZA0kK_Ojaf/view?usp=drive_link"
+  },
+  {
+    "title": "Grocery management",
+    "imageSrc": "projects/GM.png",
+    "description" :"Grocery List Master is a JavaScript-based web application that helps users organize and manage their grocery lists. It allows users to easily add items to their lists, mark items as purchased, and keep track of prices and totals. Grocery List Master also provides helpful features such as suggesting items based on past purchases, creating lists based on recipes, and automatically suggesting the best prices among nearby stores. With this application, users can manage their grocery lists more efficiently and save time and money while grocery shopping.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "http://127.0.0.1:5500/login.html",
+    "source": "https://drive.google.com/file/d/1NuUAgmfD2fXzB5g4uxdUmgbFIXnILzNp/view?usp=drive_link"
+  },
+    {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description" :"portfolio",
+    "skills": ["React Js"],
+    "demo": "http://localhost:5173/#contact",
+    "source": ""
+  }
+]
