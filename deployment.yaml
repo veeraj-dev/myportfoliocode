@@ -22,7 +22,7 @@ spec:
 
       - name: portfolio
 
-        image: veeraj54/portfolio:v1
+        image: veerajswamy/portfolio:v1
 
         ports:
 
